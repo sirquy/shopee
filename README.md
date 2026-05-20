@@ -1,4 +1,3 @@
-# shopee php by minchao - Edited by Quy Nguyen
 # Update package
 * Categories get list
 * Categories add new
